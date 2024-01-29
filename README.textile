@@ -1,6 +1,6 @@
 h2. SitemapGenerator
 
-Sitemap Generator from landing page for Wordpress-like sites. 
+Sitemap Generator from landing page for Wordpress-like web-sites. 
 
 Usage: 
 
